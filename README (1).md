@@ -1,3 +1,13 @@
+---
+title: FIFA 23 Rating Prediction
+emoji: ⚽
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.29.0"
+app_file: app.py
+pinned: true
+---
 
 # ⚽ FIFA 23 Player Insights & Market Value Prediction
 
@@ -71,7 +81,7 @@ An interactive Streamlit app to explore, visualize, and predict FIFA 23 player v
 
 - Name: Noman Shamim  
 - Course: Introduction to Data Science – Term Project  
-- Supervised by: [Instructor Name]
+- Supervised by: [Prof. Nadeem Majeed]
 
 ---
 
